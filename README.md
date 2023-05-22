@@ -1,7 +1,7 @@
 <!-- # Sardorbek Akhmedov -->
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/leverow/leverow/main/cover_leverow.png" alt="Zuhriddn"/>
+<img src="[https://raw.githubusercontent.com/leverow/leverow/main/cover_leverow.png](https://github.com/zuhriddinzayniddinov/MyResume/blob/master/assets/image/gittt.gif)" alt="Zuhriddn"/>
 <a href="https://github.com/pattisoj"><img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&size=25&duration=4500&color=BCB1F7&center=true&width=500&lines=Hi,+I'm+Zuhriddin+Zayniddinov+👋;.Net+Enthusiast;Nice+to+meet+you!" /> </a> </p>
 
 <div align="center">
