@@ -2,8 +2,6 @@
 
 
 
-C#        <span style="display:inline-block;background:#FFD700;width:75%;height:10px;border-radius:5px"></span> 75%  
-HTML      <span style="display:inline-block;background:#FF4500;width:15%;height:10px;border-radius:5px"></span> 15%  
-TypeScript<span style="display:inline-block;background:#1E90FF;width:6%;height:10px;border-radius:5px"></span> 6%  
-CSS       <span style="display:inline-block;background:#9370DB;width:3%;height:10px;border-radius:5px"></span> 3%  
-Jupyter   <span style="display:inline-block;background:#FF6347;width:1%;height:10px;border-radius:5px"></span> 1%
+### 💻 Languages Overview
+
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zuhriddinzayniddinov&layout=donut&langs_count=6&theme=dracula)](https://github.com/zuhriddinzayniddinov)
