@@ -1,23 +1,20 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuhriddinzayniddinov&text_color=ffffff&text_bold=true&title_color=e3289c&bg_color=2b213a&card_width=870%)](https://github.com/zuhriddinzayniddinov/)
+# Salom, men Zaymiddin Zuxriddinman 👋
 
-## 🛠 Texnologiyalar va Vositalar
+### 👨‍💻 Men Haqimda
+Men to'liq stek (Full-stack) dasturchiman va asosan C#/.NET, TypeScript, va zamonaviy veb texnologiyalar bilan ishlayman. Kod yozishda samaradorlik, tozalik (Clean Code) va test (Unit/Integration testing) asosiy prinsiplarimdir. Hozirda [Sizning qiziqishingiz/Ish joyingiz] sohasida yangi loyihalar ustida ishlayapman.
 
-### Backend va Dasturlash Tillar
+---
+
+### 🌐 Meni toping:
 <p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
-
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-</p>
-
-### Ma'lumotlar Bazaslari
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <a href="https://linkedin.com/in/sizningprofilingiz">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sizning@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://t.me/sizningtelegramingiz">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
 </p>
